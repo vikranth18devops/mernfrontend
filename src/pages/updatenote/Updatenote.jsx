@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from 'react'
 import Layout from '../../components/layout/Layout'
-import myContext from '../../context/data/myContext'
+//import myContext from '../../context/data/myContext'
 import { useNavigate, useParams } from 'react-router';
 import { toast } from 'react-hot-toast';
 
